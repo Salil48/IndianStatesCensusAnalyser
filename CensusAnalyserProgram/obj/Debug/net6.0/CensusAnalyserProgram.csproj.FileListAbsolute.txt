@@ -1,0 +1,5 @@
+J:\240\CensusAnalyserProgram\CensusAnalyserProgram\obj\Debug\net6.0\CensusAnalyserProgram.csproj.AssemblyReference.cache
+J:\240\CensusAnalyserProgram\CensusAnalyserProgram\obj\Debug\net6.0\CensusAnalyserProgram.GeneratedMSBuildEditorConfig.editorconfig
+J:\240\CensusAnalyserProgram\CensusAnalyserProgram\obj\Debug\net6.0\CensusAnalyserProgram.AssemblyInfoInputs.cache
+J:\240\CensusAnalyserProgram\CensusAnalyserProgram\obj\Debug\net6.0\CensusAnalyserProgram.AssemblyInfo.cs
+J:\240\CensusAnalyserProgram\CensusAnalyserProgram\obj\Debug\net6.0\CensusAnalyserProgram.csproj.CoreCompileInputs.cache
